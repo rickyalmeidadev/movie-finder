@@ -18,6 +18,7 @@ app.use(
     origin: [
       'http://localhost:3000',
       'https://moviefinderapp.now.sh',
+      'https://moviefinder-node.herokuapp.com'
     ],
   })
 );
